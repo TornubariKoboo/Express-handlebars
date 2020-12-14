@@ -1,4 +1,5 @@
 
+
 -- Database Creation
 CREATE DATABASE burgers_db;
 

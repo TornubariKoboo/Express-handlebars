@@ -1,7 +1,3 @@
--- @author: Thomas Thompson
--- @github: tomtom28
--- @comment: Homework 14 - Eat the Burger!
-
 
 
 -- Seed Burgers into Database ... No Sesame! (hehehe)
